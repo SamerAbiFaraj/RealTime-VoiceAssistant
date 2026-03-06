@@ -1,0 +1,5 @@
+ollama
+pyaudio
+numpy
+webrtcvad
+pyttsx3
